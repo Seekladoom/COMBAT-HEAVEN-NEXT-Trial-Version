@@ -1,4 +1,4 @@
-# COMBAT-HEAVEN-NEXT-Trial-Version
+# COMBAT-HEAVEN-NEXT-Trial-Version 天国战斗2/战斗天堂2
 
 demo版：http://www.4399.com/flash/23288_4.htm
 
