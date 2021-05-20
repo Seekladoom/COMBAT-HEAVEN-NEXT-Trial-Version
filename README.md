@@ -2,11 +2,13 @@
 
 demo版：http://www.4399.com/flash/23288_4.htm
 
-http://s5.4399.com:8080/4399swf/upload_swf/ftp/20100202wen/24.swf
+swf下载地址：http://s5.4399.com:8080/4399swf/upload_swf/ftp/20100202wen/24.swf
+
+
 
 完整破解版 by 晓之车：http://www.mhhf.com/gamev-3717
 
-http://www.mhhf.com/gamep-3717/cn.swf
+swf下载地址：http://www.mhhf.com/gamep-3717/cn.swf
 
 
 COMBAT HEAVEN NEXT Trial Versio.swf一刀未改，是原生文件。
