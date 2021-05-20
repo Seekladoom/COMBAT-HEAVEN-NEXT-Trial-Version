@@ -5,7 +5,7 @@
 
 swf下载地址：http://s5.4399.com:8080/4399swf/upload_swf/ftp/20100202wen/24.swf
 
-# 完整破解版 by 晓之车：
+# 完整破解版 by 晓之车（建议下这个）：
 灵动游戏：http://www.mhhf.com/gamev-3717
 
 swf下载地址：http://www.mhhf.com/gamep-3717/cn.swf
