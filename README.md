@@ -2,9 +2,11 @@
 
 demo版：http://www.4399.com/flash/23288_4.htm
 
+http://www.mhhf.com/gamep-3717/cn.swf
+
 完整破解版 by 晓之车：http://www.mhhf.com/gamev-3717
 
-这个版本我扒不下来，有能力的老哥可以试试。
+http://www.mhhf.com/gamep-3717/cn.swf
 
 
 COMBAT HEAVEN NEXT Trial Version - 20210520.swf一刀未改，是原生文件。
