@@ -1,4 +1,4 @@
-# Seekladoom-COMBAT-HEAVEN-NEXT-Trial-Version
+# COMBAT-HEAVEN-NEXT-Trial-Version
 
 demo版：http://www.4399.com/flash/23288_4.htm
 
