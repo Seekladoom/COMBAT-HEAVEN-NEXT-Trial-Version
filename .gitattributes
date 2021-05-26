@@ -1,0 +1,3 @@
+*.js linguist-language=ActionScript
+*.css linguist-language=ActionScript
+*.html linguist-language=ActionScript
